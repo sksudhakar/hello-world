@@ -1,14 +1,14 @@
 <form action="action_page.php">
   <div class="container">
 	  <h3>welcome devops mairea pochu </h3>
-    <p> docker endru sollada thalai devops  nimarthu nillada.</p>
+    <p> docker endru sollada thalai devops  nimarthu nillada.sfsfhsifsfgsgsugskg </p>
     <hr>
      
     <label for="Name"><b>Enter Name per ena da body soda </b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter cell phone number da tamila mobile</b></label>
+    <label for="mobile"><b>Enter cell phone number da  mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
